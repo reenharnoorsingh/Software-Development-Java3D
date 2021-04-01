@@ -1,4 +1,4 @@
-package com.company;
+package codesHR280;
 /* *********************************************************
  * For use by students to work on assignments and project.
  * Permission required material. Contact: xyuan@uwindsor.ca
